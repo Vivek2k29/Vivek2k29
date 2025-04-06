@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring backend and ML developer</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek2k29" alt="vivek2k29" /></a> </p>
-
 - 🔭 I’m currently working on a backend project using Java and Spring Boot **Food Delivery App**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, backend development with Java, and machine learning.**
@@ -30,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek2k29&show_icons=true&locale=en" alt="vivek2k29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek2k29&" alt="vivek2k29" /></p>
+
 
