@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **arasamvivek@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fXE3LGOQpUJUWkKryYxWnjGQZxxNzXJz/view?usp=drive_link](https://drive.google.com/file/d/1qWCcPM5h2HePSzV3pNMFS_o4KhAoDahS/view?usp=drive_link)
-
 - ⚡ Fun fact **I started learning backend because I was too curious about what happens after clicking “Submit.”**
 
 <h3 align="left">Connect with me:</h3>
